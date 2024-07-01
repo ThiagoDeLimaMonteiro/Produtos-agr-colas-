@@ -1,0 +1,8 @@
+#introduçao{
+    background-image: url(milho-colheita.webp);
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
